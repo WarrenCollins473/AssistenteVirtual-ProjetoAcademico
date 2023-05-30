@@ -1,0 +1,21 @@
+{
+    "nome": "lisa",
+    "acoes": [
+        {
+            "nome": "calcular",
+            "objetos": [
+                "variância",
+                "médias",
+                "desvio"
+            ]
+        },
+        {
+            "nome":"abrir",
+            "objetos":[
+                "calculadora",
+                "vídeo"
+            ]
+        }
+                     
+    ]
+}
